@@ -3,7 +3,7 @@
 	version: "1.0",
 	url: "https://cdn.starknet.one/file/sts-1.0.zip",
 	bin: "sts.ps1",
-	hash: "4670B71DA459DAB16EE7798E42BA750E2DC6CF33CEA6F1E01929DA7297967794",
+	hash: "4670B71DA459DAB16EE7798E42BA750E2DC6CF33CEA6F1E01929DA7297967793",
     autoupdate: {
 		url: "https://cdn.starknet.one/file/sts-$version.zip"
 	}
