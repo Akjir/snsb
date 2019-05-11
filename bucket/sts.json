@@ -1,0 +1,9 @@
+{
+	description: "StarkNet Scoop Test",
+	version: "1.0",
+	url: "https://cdn.starknet.one/file/sts-1.0.zip",
+	bin: "sts.ps1",
+    autoupdate: {
+		url: "https://cdn.starknet.one/file/sts-$version.zip"
+	}
+}
